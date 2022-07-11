@@ -145,7 +145,6 @@ input[type=checkbox]{
     font-size: 15px;
     border: 0px;
     outline: none !important;
-    font-family: cursive;
     text-decoration: none;
     color: black;
     margin: 10px;
@@ -156,7 +155,7 @@ input[type=checkbox]{
     font-size: 15px;
     border: 0px;
     outline: none !important;
-    font-family: cursive;
+    font-family:'Franklin Gothic Medium';
     text-decoration: none;
     color: black;
     margin: 10px;
